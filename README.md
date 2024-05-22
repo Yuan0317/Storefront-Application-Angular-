@@ -14,3 +14,18 @@ Technologies: TypeScript, Angular, Node.js, Mock Database, HTML, CSS, Postman, V
 
 ![add gif](gif/add.gif)
 
+
+## Demo delete feature
+
+![delete gif](gif/delete.gif)
+
+## Demo edit feature
+
+![edit gif](gif/edit.gif)
+
+## Demo postman feature
+
+![postman gif](gif/postmandemo.gif)
+
+
+
